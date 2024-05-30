@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Ikenna04/fylo-data-storage-component)
+- Live Site URL: (https://ikenna04.github.io/fylo-data-storage-component/)
 
 ### Built with
 
@@ -41,6 +41,8 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
+
+EZEORAH IKENNA PASCHAL
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 
